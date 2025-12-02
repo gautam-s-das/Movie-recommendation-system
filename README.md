@@ -6,3 +6,6 @@ Inherently, it encompasses the best movie recommendation engine that makes watch
 
 In such a way it saves time to use but it also leads to a higher UX in general. The streaming services also greatly benefit from recommendation systems- they retain grow the general watch-time and reduce churn of the user. That is exactly why Netflix Amazon Prime and Disney are spending lots of money on developing smarter recommendation systems.
 
+<img width="769" height="423" alt="image" src="https://github.com/user-attachments/assets/368f0bcf-89a5-4c97-abf6-47f4dbb5a04a" />
+
+
